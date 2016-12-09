@@ -1,4 +1,6 @@
-This is accomplished first project of Udacity Self Driving Car Course.
+# Udacity Project 1
+
+### This is accomplished first project of Udacity Self Driving Car Course.
 
 It has `P1.ipynb` jupyter notebook with extra explation and `carnd.py` script for testing purposes.
 Run on directory with images:
